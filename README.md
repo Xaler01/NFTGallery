@@ -1,7 +1,5 @@
-# FUNCIONAMIENTO:
-Permite conocer los NFTs guardados en la billetera de busqueda ingresada o 
-permite conocer los NFTs de la Coleccion ingresada.
-Posterior a correr el comando npm run dev, se desplegara en localhost:3000
+## FUNCIONAMIENTO:
+Permite conocer los NFTs guardados en la billetera ingresada o en la Colección
 
 # Next.js + Tailwind CSS Example
 
